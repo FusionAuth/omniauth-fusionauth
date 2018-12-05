@@ -1,7 +1,7 @@
 # OmniAuth FusionAuth
 
 # Stop! This project is not yet complete, feel free to hack and get it working but no guarantees that it works.
-Feel free to open an issue if you have suggestions or comments. 
+Feel free to open an issue if you have suggestions or comments.
 
 ## How to use this SDK
 
@@ -24,3 +24,7 @@ Rails.application.config.middleware.use OmniAuth::Builder do
   provider :fusionauth, ENV['FUSIONAUTH_CLIENT_ID'], ENV['FUSIONAUTH_CLIENT_SECRET'], {scope: 'openid' }
   # other providers here
 end
+
+
+## Contributors
+Special thanks to @uxtronaut for assistance with the initial build out of this OmniAuth strategy.
