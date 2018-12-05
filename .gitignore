@@ -1,0 +1,8 @@
+/.bundle/
+/Gemfile.lock
+/coverage/
+/pkg/
+.rakeTasks
+build
+**/.DS_Store
+*.iws
