@@ -1,5 +1,8 @@
 # OmniAuth FusionAuth
 
+# Stop! This project is not yet complete, feel free to hack and get it working but no guarantees that it works.
+Feel free to open an issue if you have suggestions or comments. 
+
 ## How to use this SDK
 
 #### Installation
