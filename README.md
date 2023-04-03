@@ -3,7 +3,7 @@
 # Stop! This project is not yet complete, feel free to hack and get it working but no guarantees that it works.
 Feel free to open an issue if you have suggestions or comments.
 
-You can use the [OIDC OmniAuth `openid_connect` gem](https://fusionauth.io/docs/v1/tech/tutorials/integrate-ruby-rails) until this project is complete.
+You can use the [OIDC OmniAuth `openid_connect` gem](https://fusionauth.io/docs/v1/tech/tutorials/integrate-ruby-rails) to use FusionAuth with OmniAuth until this project is complete.
 
 ## How to use this SDK
 
